@@ -200,11 +200,8 @@ void process_weather_and_alert(const char *city) {
 
 int main() {
     char city[100];
-
-    // User input for the city name
-    printf("Enter city name: ");
-    scanf("%s", city);
-
+    const char city[]="london"
+    
     // Process weather and send email alert
     process_weather_and_alert(city);
 

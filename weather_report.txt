@@ -1,3 +1,132 @@
-Data stored at 12:01:12:
-{"coord":{"lon":74.3436,"lat":31.5497},"weather":[{"id":701,"main":"Mist","description":"mist","icon":"50n"}],"base":"stations","main":{"temp":279.14,"feels_like":279.14,"temp_min":279.14,"temp_max":281.21,"pressure":1021,"humidity":87},"visibility":1500,"wind":{"speed":0,"deg":0},"clouds":{"all":100},"dt":1704830851,"sys":{"type":1,"id":7585,"country":"PK","sunrise":1704852174,"sunset":1704888975},"timezone":18000,"id":1172451,"name":"Lahore","cod":200}
+Data stored at 14:24:24:
+{"coord":{"lon":-0.1257,"lat":51.5085},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04n"}],"base":"stations","main":{"temp":279.32,"feels_like":276.38,"temp_min":278.1,"temp_max":280.45,"pressure":986,"humidity":87},"visibility":10000,"wind":{"speed":4.12,"deg":220},"clouds":{"all":100},"dt":1704008434,"sys":{"type":2,"id":2075535,"country":"GB","sunrise":1704009974,"sunset":1704038403},"timezone":0,"id":2643743,"name":"London","cod":200}
+
+Data stored at 09:28:55:
+{"coord":{"lon":67.0822,"lat":24.9056},"weather":[{"id":721,"main":"Haze","description":"haze","icon":"50n"}],"base":"stations","main":{"temp":290.05,"feels_like":288.68,"temp_min":290.05,"temp_max":290.05,"pressure":1019,"humidity":34},"visibility":5000,"wind":{"speed":2.06,"deg":40},"clouds":{"all":0},"dt":1704648270,"sys":{"type":1,"id":7576,"country":"PK","sunrise":1704593857,"sunset":1704632228},"timezone":18000,"id":1174872,"name":"Karachi","cod":200}
+
+Data stored at 10:22:40:
+{"coord":{"lon":67.0822,"lat":24.9056},"weather":[{"id":721,"main":"Haze","description":"haze","icon":"50n"}],"base":"stations","main":{"temp":289.05,"feels_like":287.51,"temp_min":289.05,"temp_max":289.05,"pressure":1019,"humidity":31},"visibility":5000,"wind":{"speed":2.06,"deg":30},"clouds":{"all":0},"dt":1704651725,"sys":{"type":1,"id":7576,"country":"PK","sunrise":1704593857,"sunset":1704632228},"timezone":18000,"id":1174872,"name":"Karachi","cod":200}
+
+Data stored at 10:27:40:
+{"coord":{"lon":67.0822,"lat":24.9056},"weather":[{"id":721,"main":"Haze","description":"haze","icon":"50n"}],"base":"stations","main":{"temp":289.05,"feels_like":287.51,"temp_min":289.05,"temp_max":289.05,"pressure":1019,"humidity":31},"visibility":5000,"wind":{"speed":3.09,"deg":50},"clouds":{"all":0},"dt":1704652039,"sys":{"type":1,"id":7576,"country":"PK","sunrise":1704593857,"sunset":1704632228},"timezone":18000,"id":1174872,"name":"Karachi","cod":200}
+
+Data stored at 10:36:29:
+{"coord":{"lon":67.0822,"lat":24.9056},"weather":[{"id":721,"main":"Haze","description":"haze","icon":"50n"}],"base":"stations","main":{"temp":289.05,"feels_like":287.51,"temp_min":289.05,"temp_max":289.05,"pressure":1019,"humidity":31},"visibility":5000,"wind":{"speed":3.09,"deg":50},"clouds":{"all":0},"dt":1704652385,"sys":{"type":1,"id":7576,"country":"PK","sunrise":1704593857,"sunset":1704632228},"timezone":18000,"id":1174872,"name":"Karachi","cod":200}
+
+Data stored at 10:40:32:
+{"coord":{"lon":67.0822,"lat":24.9056},"weather":[{"id":721,"main":"Haze","description":"haze","icon":"50n"}],"base":"stations","main":{"temp":289.05,"feels_like":287.51,"temp_min":289.05,"temp_max":289.05,"pressure":1019,"humidity":31},"visibility":5000,"wind":{"speed":3.09,"deg":50},"clouds":{"all":0},"dt":1704652803,"sys":{"type":1,"id":7576,"country":"PK","sunrise":1704593857,"sunset":1704632228},"timezone":18000,"id":1174872,"name":"Karachi","cod":200}
+
+Data stored at 09:11:01:
+{"coord":{"lon":67.0822,"lat":24.9056},"weather":[{"id":721,"main":"Haze","description":"haze","icon":"50n"}],"base":"stations","main":{"temp":293.05,"feels_like":291.98,"temp_min":293.05,"temp_max":293.05,"pressure":1019,"humidity":34},"visibility":4000,"wind":{"speed":2.06,"deg":70},"clouds":{"all":0},"dt":1704733692,"sys":{"type":1,"id":7576,"country":"PK","sunrise":1704680266,"sunset":1704718670},"timezone":18000,"id":1174872,"name":"Karachi","cod":200}
+
+Data stored at 09:14:16:
+{"coord":{"lon":67.0822,"lat":24.9056},"weather":[{"id":721,"main":"Haze","description":"haze","icon":"50n"}],"base":"stations","main":{"temp":293.05,"feels_like":291.98,"temp_min":293.05,"temp_max":293.05,"pressure":1019,"humidity":34},"visibility":4000,"wind":{"speed":2.06,"deg":70},"clouds":{"all":0},"dt":1704734056,"sys":{"type":1,"id":7576,"country":"PK","sunrise":1704680266,"sunset":1704718670},"timezone":18000,"id":1174872,"name":"Karachi","cod":200}
+
+Data stored at 09:17:24:
+{"coord":{"lon":67.0822,"lat":24.9056},"weather":[{"id":721,"main":"Haze","description":"haze","icon":"50n"}],"base":"stations","main":{"temp":293.05,"feels_like":291.98,"temp_min":293.05,"temp_max":293.05,"pressure":1019,"humidity":34},"visibility":4000,"wind":{"speed":2.06,"deg":70},"clouds":{"all":0},"dt":1704733692,"sys":{"type":1,"id":7576,"country":"PK","sunrise":1704680266,"sunset":1704718670},"timezone":18000,"id":1174872,"name":"Karachi","cod":200}
+
+Data stored at 09:18:48:
+{"coord":{"lon":13.7856,"lat":50.6856},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01n"}],"base":"stations","main":{"temp":264.21,"feels_like":257.32,"temp_min":263.36,"temp_max":265.19,"pressure":1032,"humidity":59,"sea_level":1032,"grnd_level":976},"visibility":10000,"wind":{"speed":4.66,"deg":32,"gust":10.69},"clouds":{"all":6},"dt":1704734328,"sys":{"type":2,"id":2086575,"country":"CZ","sunrise":1704697494,"sunset":1704727032},"timezone":3600,"id":3076346,"name":"Dubí","cod":200}
+
+Data stored at 09:19:00:
+{"coord":{"lon":55.3047,"lat":25.2582},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01n"}],"base":"stations","main":{"temp":296.24,"feels_like":295.73,"temp_min":293.29,"temp_max":297.11,"pressure":1021,"humidity":43},"visibility":10000,"wind":{"speed":3.09,"deg":50},"clouds":{"all":0},"dt":1704733833,"sys":{"type":1,"id":7537,"country":"AE","sunrise":1704683135,"sunset":1704721455},"timezone":14400,"id":292223,"name":"Dubai","cod":200}
+
+Data stored at 09:48:18:
+{"coord":{"lon":67.0822,"lat":24.9056},"weather":[{"id":721,"main":"Haze","description":"haze","icon":"50n"}],"base":"stations","main":{"temp":291.05,"feels_like":289.99,"temp_min":291.05,"temp_max":291.05,"pressure":1020,"humidity":42},"visibility":4000,"wind":{"speed":3.09,"deg":70},"clouds":{"all":0},"dt":1704735818,"sys":{"type":1,"id":7576,"country":"PK","sunrise":1704680266,"sunset":1704718670},"timezone":18000,"id":1174872,"name":"Karachi","cod":200}
+
+Data stored at 09:49:07:
+{"coord":{"lon":67.0822,"lat":24.9056},"weather":[{"id":721,"main":"Haze","description":"haze","icon":"50n"}],"base":"stations","main":{"temp":291.05,"feels_like":289.99,"temp_min":291.05,"temp_max":291.05,"pressure":1020,"humidity":42},"visibility":4000,"wind":{"speed":3.09,"deg":70},"clouds":{"all":0},"dt":1704735818,"sys":{"type":1,"id":7576,"country":"PK","sunrise":1704680266,"sunset":1704718670},"timezone":18000,"id":1174872,"name":"Karachi","cod":200}
+
+Data stored at 09:49:14:
+{"coord":{"lon":67.0822,"lat":24.9056},"weather":[{"id":721,"main":"Haze","description":"haze","icon":"50n"}],"base":"stations","main":{"temp":291.05,"feels_like":289.99,"temp_min":291.05,"temp_max":291.05,"pressure":1020,"humidity":42},"visibility":4000,"wind":{"speed":3.09,"deg":70},"clouds":{"all":0},"dt":1704735818,"sys":{"type":1,"id":7576,"country":"PK","sunrise":1704680266,"sunset":1704718670},"timezone":18000,"id":1174872,"name":"Karachi","cod":200}
+
+Data stored at 12:58:07:
+{"coord":{"lon":74.3436,"lat":31.5497},"weather":[{"id":701,"main":"Mist","description":"mist","icon":"50n"}],"base":"stations","main":{"temp":280.14,"feels_like":280.14,"temp_min":279.87,"temp_max":280.21,"pressure":1021,"humidity":87},"visibility":1500,"wind":{"speed":0,"deg":0},"clouds":{"all":40},"dt":1704747446,"sys":{"type":1,"id":7585,"country":"PK","sunrise":1704765774,"sunset":1704802526},"timezone":18000,"id":1172451,"name":"Lahore","cod":200}
+
+Data stored at 12:02:03:
+{"coord":{"lon":74.3436,"lat":31.5497},"weather":[{"id":701,"main":"Mist","description":"mist","icon":"50n"}],"base":"stations","main":{"temp":279.14,"feels_like":279.14,"temp_min":279.14,"temp_max":281.21,"pressure":1021,"humidity":87},"visibility":1500,"wind":{"speed":0,"deg":0},"clouds":{"all":100},"dt":1704831067,"sys":{"type":1,"id":7585,"country":"PK","sunrise":1704852174,"sunset":1704888975},"timezone":18000,"id":1172451,"name":"Lahore","cod":200}
+
+Data stored at 12:06:49:
+{"coord":{"lon":-91.969,"lat":34.5443},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"base":"stations","main":{"temp":276.06,"feels_like":269.73,"temp_min":274.85,"temp_max":276.99,"pressure":1001,"humidity":70,"sea_level":1001,"grnd_level":992},"visibility":10000,"wind":{"speed":10.88,"deg":272,"gust":16.21},"clouds":{"all":85},"dt":1704831353,"sys":{"type":2,"id":46979,"country":"US","sunrise":1704806110,"sunset":1704842043},"timezone":-21600,"id":4110001,"name":"England","cod":200}
+
+Data stored at 12:25:26:
+{"coord":{"lon":74.3436,"lat":31.5497},"weather":[{"id":701,"main":"Mist","description":"mist","icon":"50n"}],"base":"stations","main":{"temp":279.14,"feels_like":279.14,"temp_min":279.14,"temp_max":281.21,"pressure":1021,"humidity":87},"visibility":1500,"wind":{"speed":0,"deg":0},"clouds":{"all":100},"dt":1704831721,"sys":{"type":1,"id":7585,"country":"PK","sunrise":1704852174,"sunset":1704888975},"timezone":18000,"id":1172451,"name":"Lahore","cod":200}
+
+Data stored at 12:26:45:
+{"coord":{"lon":74.3436,"lat":31.5497},"weather":[{"id":701,"main":"Mist","description":"mist","icon":"50n"}],"base":"stations","main":{"temp":279.14,"feels_like":279.14,"temp_min":279.14,"temp_max":281.21,"pressure":1021,"humidity":87},"visibility":1500,"wind":{"speed":0,"deg":0},"clouds":{"all":100},"dt":1704832005,"sys":{"type":1,"id":7585,"country":"PK","sunrise":1704852174,"sunset":1704888975},"timezone":18000,"id":1172451,"name":"Lahore","cod":200}
+
+Data stored at 12:32:36:
+{"coord":{"lon":74.3436,"lat":31.5497},"weather":[{"id":701,"main":"Mist","description":"mist","icon":"50n"}],"base":"stations","main":{"temp":279.14,"feels_like":279.14,"temp_min":279.14,"temp_max":281.21,"pressure":1021,"humidity":87},"visibility":1500,"wind":{"speed":0,"deg":0},"clouds":{"all":100},"dt":1704831721,"sys":{"type":1,"id":7585,"country":"PK","sunrise":1704852174,"sunset":1704888975},"timezone":18000,"id":1172451,"name":"Lahore","cod":200}
+
+Data stored at 12:38:31:
+{"coord":{"lon":74.3436,"lat":31.5497},"weather":[{"id":701,"main":"Mist","description":"mist","icon":"50n"}],"base":"stations","main":{"temp":279.14,"feels_like":279.14,"temp_min":279.14,"temp_max":281.21,"pressure":1021,"humidity":87},"visibility":1500,"wind":{"speed":0,"deg":0},"clouds":{"all":100},"dt":1704832711,"sys":{"type":1,"id":7585,"country":"PK","sunrise":1704852174,"sunset":1704888975},"timezone":18000,"id":1172451,"name":"Lahore","cod":200}
+
+Data stored at 12:40:30:
+{"coord":{"lon":74.3436,"lat":31.5497},"weather":[{"id":701,"main":"Mist","description":"mist","icon":"50n"}],"base":"stations","main":{"temp":279.14,"feels_like":279.14,"temp_min":279.14,"temp_max":281.21,"pressure":1021,"humidity":87},"visibility":1500,"wind":{"speed":0,"deg":0},"clouds":{"all":100},"dt":1704832711,"sys":{"type":1,"id":7585,"country":"PK","sunrise":1704852174,"sunset":1704888975},"timezone":18000,"id":1172451,"name":"Lahore","cod":200}
+
+Data stored at 12:40:54:
+{"coord":{"lon":74.3436,"lat":31.5497},"weather":[{"id":701,"main":"Mist","description":"mist","icon":"50n"}],"base":"stations","main":{"temp":279.14,"feels_like":279.14,"temp_min":279.14,"temp_max":281.21,"pressure":1021,"humidity":87},"visibility":1500,"wind":{"speed":0,"deg":0},"clouds":{"all":100},"dt":1704832711,"sys":{"type":1,"id":7585,"country":"PK","sunrise":1704852174,"sunset":1704888975},"timezone":18000,"id":1172451,"name":"Lahore","cod":200}
+
+Data stored at 12:43:13:
+{"coord":{"lon":74.3436,"lat":31.5497},"weather":[{"id":701,"main":"Mist","description":"mist","icon":"50n"}],"base":"stations","main":{"temp":279.14,"feels_like":279.14,"temp_min":279.14,"temp_max":281.21,"pressure":1021,"humidity":87},"visibility":1500,"wind":{"speed":0,"deg":0},"clouds":{"all":100},"dt":1704832711,"sys":{"type":1,"id":7585,"country":"PK","sunrise":1704852174,"sunset":1704888975},"timezone":18000,"id":1172451,"name":"Lahore","cod":200}
+
+Data stored at 12:52:22:
+{"coord":{"lon":-0.1257,"lat":51.5085},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01n"}],"base":"stations","main":{"temp":274.81,"feels_like":270.23,"temp_min":273.58,"temp_max":275.8,"pressure":1029,"humidity":74},"visibility":10000,"wind":{"speed":5.14,"deg":60},"clouds":{"all":0},"dt":1704833207,"sys":{"type":2,"id":268730,"country":"GB","sunrise":1704787431,"sunset":1704816625},"timezone":0,"id":2643743,"name":"London","cod":200}
+
+Data stored at 12:56:42:
+{"coord":{"lon":-91.969,"lat":34.5443},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"base":"stations","main":{"temp":276.11,"feels_like":269.91,"temp_min":274.85,"temp_max":276.99,"pressure":1002,"humidity":70,"sea_level":1002,"grnd_level":993},"visibility":10000,"wind":{"speed":10.45,"deg":269,"gust":16.55},"clouds":{"all":90},"dt":1704833594,"sys":{"type":2,"id":46979,"country":"US","sunrise":1704806110,"sunset":1704842043},"timezone":-21600,"id":4110001,"name":"England","cod":200}
+
+Data stored at 08:23:09:
+{"coord":{"lon":67.0822,"lat":24.9056},"weather":[{"id":721,"main":"Haze","description":"haze","icon":"50n"}],"base":"stations","main":{"temp":291.05,"feels_like":289.6,"temp_min":291.05,"temp_max":291.05,"pressure":1019,"humidity":27},"visibility":5000,"wind":{"speed":0,"deg":0},"clouds":{"all":0},"dt":1704903731,"sys":{"type":1,"id":7576,"country":"PK","sunrise":1704853080,"sunset":1704891555},"timezone":18000,"id":1174872,"name":"Karachi","cod":200}
+
+Data stored at 08:23:35:
+{"coord":{"lon":67.0822,"lat":24.9056},"weather":[{"id":721,"main":"Haze","description":"haze","icon":"50n"}],"base":"stations","main":{"temp":291.05,"feels_like":289.6,"temp_min":291.05,"temp_max":291.05,"pressure":1019,"humidity":27},"visibility":5000,"wind":{"speed":0,"deg":0},"clouds":{"all":0},"dt":1704903731,"sys":{"type":1,"id":7576,"country":"PK","sunrise":1704853080,"sunset":1704891555},"timezone":18000,"id":1174872,"name":"Karachi","cod":200}
+
+Data stored at 08:25:04:
+{"coord":{"lon":67.0822,"lat":24.9056},"weather":[{"id":721,"main":"Haze","description":"haze","icon":"50n"}],"base":"stations","main":{"temp":291.05,"feels_like":289.6,"temp_min":291.05,"temp_max":291.05,"pressure":1019,"humidity":27},"visibility":5000,"wind":{"speed":0,"deg":0},"clouds":{"all":0},"dt":1704903904,"sys":{"type":1,"id":7576,"country":"PK","sunrise":1704853080,"sunset":1704891555},"timezone":18000,"id":1174872,"name":"Karachi","cod":200}
+
+Data stored at 22:43:33:
+{"coord":{"lon":67.0822,"lat":24.9056},"weather":[{"id":721,"main":"Haze","description":"haze","icon":"50d"}],"base":"stations","main":{"temp":296.05,"feels_like":295,"temp_min":296.05,"temp_max":296.05,"pressure":1019,"humidity":23},"visibility":4000,"wind":{"speed":1.54,"deg":240},"clouds":{"all":0},"dt":1705041733,"sys":{"type":1,"id":7576,"country":"PK","sunrise":1705025889,"sunset":1705064442},"timezone":18000,"id":1174872,"name":"Karachi","cod":200}
+
+Data stored at 12:52:03:
+{"coord":{"lon":67.0822,"lat":24.9056},"weather":[{"id":711,"main":"Smoke","description":"smoke","icon":"50n"}],"base":"stations","main":{"temp":286.05,"feels_like":284.91,"temp_min":286.05,"temp_max":286.05,"pressure":1016,"humidity":58},"visibility":5000,"wind":{"speed":2.06,"deg":40},"clouds":{"all":1},"dt":1705092620,"sys":{"type":1,"id":7576,"country":"PK","sunrise":1705112291,"sunset":1705150886},"timezone":18000,"id":1174872,"name":"Karachi","cod":200}
+
+Data stored at 13:41:39:
+{"cod":401, "message": "Invalid API key. Please see https://openweathermap.org/faq#error401 for more info."}
+
+Data stored at 13:43:18:
+{"coord":{"lon":67.0822,"lat":24.9056},"weather":[{"id":711,"main":"Smoke","description":"smoke","icon":"50n"}],"base":"stations","main":{"temp":285.05,"feels_like":283.91,"temp_min":285.05,"temp_max":285.05,"pressure":1016,"humidity":62},"visibility":5000,"wind":{"speed":0,"deg":0},"clouds":{"all":2},"dt":1705095885,"sys":{"type":1,"id":7576,"country":"PK","sunrise":1705112291,"sunset":1705150886},"timezone":18000,"id":1174872,"name":"Karachi","cod":200}
+
+Data stored at 13:45:39:
+{"coord":{"lon":67.0822,"lat":24.9056},"weather":[{"id":711,"main":"Smoke","description":"smoke","icon":"50n"}],"base":"stations","main":{"temp":285.05,"feels_like":283.91,"temp_min":285.05,"temp_max":285.05,"pressure":1016,"humidity":62},"visibility":5000,"wind":{"speed":0,"deg":0},"clouds":{"all":2},"dt":1705095885,"sys":{"type":1,"id":7576,"country":"PK","sunrise":1705112291,"sunset":1705150886},"timezone":18000,"id":1174872,"name":"Karachi","cod":200}
+
+Data stored at 13:48:48:
+{"cod":401, "message": "Invalid API key. Please see https://openweathermap.org/faq#error401 for more info."}
+
+Data stored at 13:49:15:
+{"coord":{"lon":74.3436,"lat":31.5497},"weather":[{"id":701,"main":"Mist","description":"mist","icon":"50n"}],"base":"stations","main":{"temp":282.14,"feels_like":282.14,"temp_min":280.98,"temp_max":282.14,"pressure":1017,"humidity":81},"visibility":800,"wind":{"speed":0,"deg":0},"clouds":{"all":40},"dt":1705095945,"sys":{"type":1,"id":7585,"country":"PK","sunrise":1705111365,"sunset":1705148327},"timezone":18000,"id":1172451,"name":"Lahore","cod":200}
+
+Data stored at 13:54:30:
+{"coord":{"lon":74.3436,"lat":31.5497},"weather":[{"id":701,"main":"Mist","description":"mist","icon":"50n"}],"base":"stations","main":{"temp":282.14,"feels_like":282.14,"temp_min":280.98,"temp_max":282.14,"pressure":1017,"humidity":81},"visibility":800,"wind":{"speed":0,"deg":0},"clouds":{"all":40},"dt":1705095945,"sys":{"type":1,"id":7585,"country":"PK","sunrise":1705111365,"sunset":1705148327},"timezone":18000,"id":1172451,"name":"Lahore","cod":200}
+
+Data stored at 13:56:23:
+{"cod":401, "message": "Invalid API key. Please see https://openweathermap.org/faq#error401 for more info."}
+
+Data stored at 13:56:58:
+{"coord":{"lon":67.0822,"lat":24.9056},"weather":[{"id":711,"main":"Smoke","description":"smoke","icon":"50n"}],"base":"stations","main":{"temp":285.05,"feels_like":283.91,"temp_min":285.05,"temp_max":285.05,"pressure":1016,"humidity":62},"visibility":5000,"wind":{"speed":0,"deg":0},"clouds":{"all":2},"dt":1705096607,"sys":{"type":1,"id":7576,"country":"PK","sunrise":1705112291,"sunset":1705150886},"timezone":18000,"id":1174872,"name":"Karachi","cod":200}
+
+Data stored at 14:00:30:
+{"coord":{"lon":-0.1257,"lat":51.5085},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04n"}],"base":"stations","main":{"temp":277.45,"feels_like":277.45,"temp_min":276.51,"temp_max":278.15,"pressure":1031,"humidity":85},"visibility":10000,"wind":{"speed":1.03,"deg":0},"clouds":{"all":100},"dt":1705096290,"sys":{"type":2,"id":2075535,"country":"GB","sunrise":1705046526,"sunset":1705076074},"timezone":0,"id":2643743,"name":"London","cod":200}
+
+Data stored at 14:01:34:
+{"coord":{"lon":-0.1257,"lat":51.5085},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04n"}],"base":"stations","main":{"temp":277.45,"feels_like":277.45,"temp_min":276.51,"temp_max":278.15,"pressure":1031,"humidity":85},"visibility":10000,"wind":{"speed":1.03,"deg":0},"clouds":{"all":100},"dt":1705096295,"sys":{"type":2,"id":2075535,"country":"GB","sunrise":1705046526,"sunset":1705076074},"timezone":0,"id":2643743,"name":"London","cod":200}
+
+Data stored at 14:01:59:
+{"coord":{"lon":-0.1257,"lat":51.5085},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04n"}],"base":"stations","main":{"temp":277.45,"feels_like":277.45,"temp_min":276.51,"temp_max":278.15,"pressure":1031,"humidity":85},"visibility":10000,"wind":{"speed":1.03,"deg":0},"clouds":{"all":100},"dt":1705096295,"sys":{"type":2,"id":2075535,"country":"GB","sunrise":1705046526,"sunset":1705076074},"timezone":0,"id":2643743,"name":"London","cod":200}
+
+Data stored at 14:02:19:
+{"coord":{"lon":-0.1257,"lat":51.5085},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04n"}],"base":"stations","main":{"temp":277.45,"feels_like":277.45,"temp_min":276.51,"temp_max":278.15,"pressure":1031,"humidity":85},"visibility":10000,"wind":{"speed":1.03,"deg":0},"clouds":{"all":100},"dt":1705096290,"sys":{"type":2,"id":2075535,"country":"GB","sunrise":1705046526,"sunset":1705076074},"timezone":0,"id":2643743,"name":"London","cod":200}
+
+Data stored at 14:03:11:
+{"coord":{"lon":-0.1257,"lat":51.5085},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04n"}],"base":"stations","main":{"temp":277.45,"feels_like":277.45,"temp_min":276.51,"temp_max":278.15,"pressure":1031,"humidity":85},"visibility":10000,"wind":{"speed":1.03,"deg":0},"clouds":{"all":100},"dt":1705096295,"sys":{"type":2,"id":2075535,"country":"GB","sunrise":1705046526,"sunset":1705076074},"timezone":0,"id":2643743,"name":"London","cod":200}
 

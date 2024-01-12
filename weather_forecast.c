@@ -1,11 +1,6 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <curl/curl.h>
-#include <jansson.h>
-#include <time.h>
 
-struct MemoryStruct {
+#include "weather.h"
+/*struct MemoryStruct {
     char *memory;
     size_t size;
 };
@@ -115,7 +110,7 @@ void process_weather_and_alert(const char *city, const char *date) {
                 json_t *list = json_object_get(root, "list");
 
                 if (json_is_object(city_obj) && json_is_array(list)) {
-                    printf("Weather Report for %s:\n", json_string_value(json_object_get(city_obj, "name")));
+                    printf(" --------------- Weather Forecast Report for %s ---------------:\n", json_string_value(json_object_get(city_obj, "name")));
 
                     // Process forecast data (this is a basic example, you may need to adapt based on the JSON structure)
                     for (size_t i = 0; i < json_array_size(list); i++) {
@@ -168,17 +163,11 @@ void process_weather_and_alert(const char *city, const char *date) {
         // Cleanup
         curl_easy_cleanup(curl);
     }
-}
+}*/
 
 int main() {
-    char city[100];
-    char date[20];  // Assuming a date format like "2024-01-13"
-
-    // User input for the city name and date
-    printf("Enter city name: ");
-    scanf("%s", city);
-    printf("Your five day forecast with 3 hours step ");
-   // scanf("%s", date);
+    char city[100] = "London";  // Hardcoded city name
+    char date[100] = "2024-01-13";  // Hardcoded date in the format "YYYY-MM-DD"
 
     // Process weather and send email alert
     process_weather_and_alert(city, date);
