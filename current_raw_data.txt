@@ -1,0 +1,6 @@
+Raw Data stored at 03:23:23:
+{"coord":{"lon":-0.1257,"lat":51.5085},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"base":"stations","main":{"temp":275.51,"feels_like":273.38,"temp_min":273.73,"temp_max":277.01,"pressure":1024,"humidity":87},"visibility":10000,"wind":{"speed":2.06,"deg":290},"clouds":{"all":100},"dt":1705144147,"sys":{"type":2,"id":2075535,"country":"GB","sunrise":1705132885,"sunset":1705162562},"timezone":0,"id":2643743,"name":"London","cod":200}
+
+Raw Data stored at 03:26:40:
+{"coord":{"lon":-0.1257,"lat":51.5085},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"base":"stations","main":{"temp":275.56,"feels_like":273.43,"temp_min":273.87,"temp_max":277.01,"pressure":1024,"humidity":87},"visibility":10000,"wind":{"speed":2.06,"deg":290},"clouds":{"all":100},"dt":1705144660,"sys":{"type":2,"id":2075535,"country":"GB","sunrise":1705132885,"sunset":1705162562},"timezone":0,"id":2643743,"name":"London","cod":200}
+

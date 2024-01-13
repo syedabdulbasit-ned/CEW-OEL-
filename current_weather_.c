@@ -60,19 +60,25 @@ char *get_formatted_time(double timestamp) {
     return time_str;
 }
 
-// Function to save data to a file
-void save_data_to_file(const char *filename, const char *data) {
-    FILE *file = fopen(filename, "a"); // Open in append mode
-    if (file != NULL) {
-        fprintf(file, "Data stored at %s:\n%s\n\n", get_current_time(), data);
-        fclose(file);
-        printf("Data successfully saved in %s.\n", filename);
+// Function to save data to separate files
+void save_data_to_files(const char *rawFilename, const char *processedFilename, const char *rawData, const char *processedData) {
+    FILE *rawFile = fopen(rawFilename, "a"); // Open raw data file in append mode
+    FILE *processedFile = fopen(processedFilename, "a"); // Open processed data file in append mode
+
+    if (rawFile != NULL && processedFile != NULL) {
+        fprintf(rawFile, "Raw Data stored at %s:\n%s\n\n", get_current_time(), rawData);
+        fprintf(processedFile, "Processed Data stored at %s:\n%s\n\n", get_current_time(), processedData);
+
+        fclose(rawFile);
+        fclose(processedFile);
+
+        printf("Data successfully saved in %s and %s.\n", rawFilename, processedFilename);
     } else {
-        fprintf(stderr, "Error: Unable to open file for writing.\n");
+        fprintf(stderr, "Error: Unable to open file(s) for writing.\n");
     }
+
     free(get_current_time()); // Free memory allocated by get_current_time
 }
-
 // Function to process weather and send alert
 void process_weather_and_alert(const char *city) {
     CURL *curl;
@@ -160,10 +166,10 @@ void process_weather_and_alert(const char *city) {
                     printf("Sunset: %s\n", get_formatted_time(json_number_value(json_object_get(sys, "sunset"))));
 
                     // Save data to a file
-                    save_data_to_file("weather_report.txt", chunk.memory);
-
+                    //save_data_to_file("weather_report.txt", chunk.memory);
+		    save_data_to_files("current_raw_data.txt", "current_processed_data.txt", chunk.memory, "Additional processed data goes here");
                     // Send email alert
-                    // send_alert_email("Weather Alert", "Weather conditions have been updated. Check the attached file for details.");
+                    //send_alert_email("Weather Alert", "Weather conditions have been updated. Check the attached file for details.");
 
                     // API Response
                     printf("API Response Code: %d\n", (int)json_integer_value(json_object_get(root, "cod")));
@@ -180,7 +186,6 @@ void process_weather_and_alert(const char *city) {
                 } else {
                     printf("Error: Invalid or missing data in API response.\n");
                 }
-
                 // Free Jansson root
                 json_decref(root);
             } else {
@@ -199,8 +204,8 @@ void process_weather_and_alert(const char *city) {
 }
 
 int main() {
-    char city[100];
-    const char city[]="london"
+   
+    char city[100]="london";
     
     // Process weather and send email alert
     process_weather_and_alert(city);
